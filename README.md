@@ -9,4 +9,5 @@ TransitScape 是一个权威性的、高度优化的模组包，专为创建和�
 
 只需安装，即可开始连接您的世界！
 
-https://cdn.modrinth.com/data/2zoVWq0C/images/6a54d571261e28fc5c992cf903ba3cbec78c1fcb.png
+![alt text]([http://url/to/img.png](https://cdn.modrinth.com/data/2zoVWq0C/images/6a54d571261e28fc5c992cf903ba3cbec78c1fcb.png))
+![alt text]([https://cdn.modrinth.com/data/2zoVWq0C/images/b99dacbdb37e02f01ee45e33ac83ffd702384f1b.png))
