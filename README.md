@@ -60,6 +60,7 @@ To ensure a smooth experience while building complex transit networks, please re
 Encountering issues or have questions? Join our community for immediate help, tutorials, and project sharing!
 
 **🔗 Discord Support:** [Join the TransitScape Discord](https://discord.gg/H7rFCQpv58)
+**📧Email Support:** [contactghostworkshop@atomicmail.io](mailto:contactghostworkshop@atomicmail.io)
 
 ![alt text](https://cdn.modrinth.com/data/2zoVWq0C/images/6a54d571261e28fc5c992cf903ba3cbec78c1fcb.png)
 ![alt text](https://cdn.modrinth.com/data/2zoVWq0C/images/b99dacbdb37e02f01ee45e33ac83ffd702384f1b.png)
