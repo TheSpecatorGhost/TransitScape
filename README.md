@@ -160,3 +160,5 @@ Plan your routes, construct your stations, operate your trains, and transform yo
 Looking for a translated version of this page?
 
 Click **Change Language** below to open our GitHub translation page, where you can view available translations or help translate TransitScape into another language.
+- [English](https://github.com/Ghost-Workshop/TransitScape/blob/main/README.md)
+- [简体中文](https://github.com/Ghost-Workshop/TransitScape/blob/main/READMECN.md)
