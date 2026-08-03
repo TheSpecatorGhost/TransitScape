@@ -1,65 +1,162 @@
-# TransitScape: The Ultimate Minecraft Transit Experience
+# TransitScape
 
-**TransitScape** is the definitive, highly-optimized modpack designed for creators and engineers to build and manage realistic public rail networks. 
+Build, operate, and explore detailed railway networks with **TransitScape**, a transit-focused Minecraft modpack built around **Minecraft Transit Railway (MTR)**.
 
-Built around the powerful **Minecraft Transit Railway (MTR)**, this pack integrates essential addons like **TJMetro, MSD (Station Decoration), and the MTR France Addon** to give you unparalleled control over routes, stations, and custom train models. 
+TransitScape gives railway builders everything they need to create realistic metro systems, regional railways, high-speed lines, detailed stations, depots, and complete cities. It combines transit expansions, construction tools, mapping utilities, visual improvements, and performance optimizations into one complete building experience.
 
-Whether you are designing a sprawling subterranean subway or a high-speed intercity corridor, TransitScape provides the performance (via **Sodium & Lithium**) and the precision (via **Chisels & Bits**) to bring your vision to life. Simply install, and start connecting your world!
-
----
-
-# TransitScape：终极 Minecraft 交通建设整合包
-
-**TransitScape** 是一个权威性且高度优化的模组包，专为创建和管理逼真的公共铁路网络而设计。
-
-本整合包以强大的 **Minecraft Transit Railway (MTR)** 为核心，深度集成了 **TJMetroMSD (车站装饰) 以及 MTR France Addon** 等关键插件，让您对线路布局、车站规划及自定义列车模型拥有无与伦比的控制力。
-
-结合了顶级性能优化工具（**Sodium/Lithium**）与细节美化工具（**Chisels & Bits**），TransitScape 为您提供了一个完整、流畅且沉浸式的平台，助您打造从庞大地铁系统到高速城际铁路的一切蓝图。只需安装，即可开始连接您的世界！
+Whether you are creating a compact urban metro or an enormous interconnected railway network, TransitScape gives you the freedom and tools to bring your project to life.
 
 ---
 
-## 🖥️ Server Hosting / 服务器托管
+## 🚆 Build Complete Transit Networks
 
-**English:**
-We have officially released a **separate ZIP folder for servers** to make hosting easier! This pack contains only the necessary `mods` and `resourcepack` folders, removing all client-side bloat.
-> 📥 **To download the Server Pack, please join our Discord server: [https://discord.gg/H7rFCQpv58](https://discord.gg/H7rFCQpv58)**
+Create fully functional transportation systems with:
 
-**中文:**
-我们正式发布了一个**独立的服务器 ZIP 压缩包**，让开服变得更加简单！该压缩包仅包含必要的 `mods` 和 `resourcepack` 文件夹，去处了所有客户端冗余文件。
-> 📥 **如需下载服务器包，请加入我们的 Discord 服务器: [https://discord.gg/H7rFCQpv58](https://discord.gg/H7rFCQpv58)**
+* Custom railway routes and services
+* Detailed stations and platforms
+* Metro, regional, and high-speed railways
+* International trains and railway infrastructure
+* Station signs, decorations, displays, and lighting
+* Depots, maintenance areas, and operational facilities
 
----
-
-## 🖥️ System Requirements / 系统配置要求
-
-To ensure a smooth experience while building complex transit networks, please refer to the following specifications:
-
-| Component | Minimum (Low Settings) | Recommended (Standard) |
-| :--- | :--- | :--- |
-| **Allocated RAM** | 8 GB | 10 GB |
-| **Total System RAM** | 12 GB | 16 GB |
-| **CPU** | Intel i5-4th Gen / Ryzen 3 | Intel i5-10th Gen / Ryzen 5 |
-| **GPU** | Intel Integrated Graphics | NVIDIA GTX 1050 / RX 560 |
-| **Storage** | 3 GB Free (SSD) | 8 GB Free (NVMe SSD) |
-
-> [!IMPORTANT]
-> **Pro Tip:** We recommend using the **latest version of Java 17** (for 1.20.1/1.19.4) and ensuring your graphics drivers are up to date to prevent OpenGL errors during world rendering.
+TransitScape includes a wide selection of MTR expansions that provide additional trains, station components, railway equipment, decorations, and infrastructure.
 
 ---
 
-## 🛠️ Key Included Features / 包含的核心功能
-* **Core:** Minecraft Transit Railway (MTR)
-* **Expansion:** TJMetro, Transit Manager, MSD (Station Decoration), MTR France Addon
-* **Performance:** Sodium, Lithium, Starlight, Iris Shaders
-* **Detailing:** Chisels & Bits, Simply Light, Slideshow (Custom Displays)
-* **QoL:** Xaero's Minimap, Sound Physics Remastered, Better Third Person
+## 🏙️ Build Beyond the Railway
+
+TransitScape is not limited to tracks and stations.
+
+Create complete cities around your network using construction, road, traffic, lighting, decoration, and landscaping tools. Precision-building features allow you to create custom platforms, station interiors, façades, signs, furniture, and other detailed architectural elements.
+
+Large-scale editing and schematic tools are also included to make ambitious projects easier to plan and build.
 
 ---
 
-## 💬 Support & Community / 支持与社区
-Encountering issues or have questions? Join our community for immediate help, tutorials, and project sharing!
+## ⚙️ Optimized for Large Projects
 
-**🔗 Discord Support:** [Join the TransitScape Discord](https://discord.gg/H7rFCQpv58)
+Large transit networks can place significant demands on Minecraft, so TransitScape includes performance and memory optimizations designed to improve:
 
-![alt text](https://cdn.modrinth.com/data/2zoVWq0C/images/6a54d571261e28fc5c992cf903ba3cbec78c1fcb.png)
-![alt text](https://cdn.modrinth.com/data/2zoVWq0C/images/b99dacbdb37e02f01ee45e33ac83ffd702384f1b.png)
+* Chunk loading and generation
+* Rendering performance
+* Memory usage
+* Entity rendering
+* Large and detailed builds
+* Heavily developed railway worlds
+
+Shader support is also available, although performance will depend on your selected shader pack and computer hardware.
+
+---
+
+## 📦 Choose Your Version
+
+TransitScape is available in two versions, allowing you to choose the experience that best matches your system and project.
+
+### Full Version
+
+The **Full Version** provides the complete TransitScape experience.
+
+It includes the full collection of transit content, building tools, visual enhancements, immersive features, mapping utilities, and bundled resource packs. This version is recommended for players who want the widest selection of content and have enough system memory available.
+
+### Lite Version
+
+The **Lite Version** is designed for lower-end systems and players who prefer a lighter installation.
+
+It keeps the core transit, railway, construction, and performance features while removing bundled resource packs and reducing selected visual, audio, mapping, and cosmetic extras.
+
+The Lite Version is recommended for:
+
+* Computers with less available memory
+* Smaller or medium-sized transit projects
+* Players who use their own resource packs
+* Servers that prefer a lighter base installation
+* Players who want faster loading and lower storage usage
+
+Both versions remain compatible with Minecraft **1.20.1** and provide the main TransitScape railway-building experience.
+
+---
+
+## 🖥️ Full Version System Requirements
+
+| Component            | Minimum                             | Recommended                                    |
+| :------------------- | :---------------------------------- | :--------------------------------------------- |
+| **Allocated RAM**    | 12 GB                               | 32 GB                                          |
+| **Total System RAM** | 16 GB                               | 36 GB or more                                  |
+| **CPU**              | Intel Core i5 4th Gen / AMD Ryzen 3 | Intel Core i5 10th Gen / AMD Ryzen 5 or better |
+| **GPU**              | Modern integrated graphics          | NVIDIA GTX 1050 / AMD RX 560 or better         |
+| **Storage**          | 6 GB available on an SSD            | 20 GB available on an NVMe SSD                 |
+
+---
+
+## ⚡ Lite Version System Requirements
+
+| Component            | Minimum                             | Recommended                                   |
+| :------------------- | :---------------------------------- | :-------------------------------------------- |
+| **Allocated RAM**    | 6 GB                                | 12 GB                                         |
+| **Total System RAM** | 8 GB                                | 16 GB or more                                 |
+| **CPU**              | Intel Core i3 4th Gen / AMD Ryzen 3 | Intel Core i5 8th Gen / AMD Ryzen 5 or better |
+| **GPU**              | Modern integrated graphics          | Dedicated entry-level GPU or better           |
+| **Storage**          | 4 GB available on an SSD            | 10 GB available on an SSD                     |
+
+Actual performance may vary depending on world size, render distance, resource packs, shaders, station complexity, train count, and the number of active players.
+
+> Use an up-to-date **64-bit Java 17 installation** and keep your graphics drivers updated. Do not allocate all available system memory to Minecraft, as your operating system and background applications also require RAM.
+
+---
+
+## 🗺️ Mapping and Navigation
+
+TransitScape includes navigation and world-management tools to help you explore large projects and understand how your railway network connects.
+
+The Full Version also provides additional mapping features for players and compatible multiplayer servers.
+
+---
+
+## 🎧 A More Immersive World
+
+Environmental audio, weather effects, dynamic lighting, camera improvements, and quality-of-life additions make travelling through your completed network more immersive.
+
+Some optional immersive and cosmetic features are reduced in the Lite Version to improve performance.
+
+---
+
+## 🖥️ Server Pack
+
+A separate Server Pack is available to make server installation faster and easier.
+
+It contains the required server files while excluding unnecessary client-only content.
+
+> 📥 **Download the Server Pack through the official TransitScape Discord:**
+> https://discord.gg/H7rFCQpv58
+
+---
+
+## 💬 Support and Community
+
+Join the TransitScape community for:
+
+* Installation and technical support
+* Server setup assistance
+* Pack announcements and updates
+* Tutorials and building advice
+* Transit project showcases
+* Community discussions
+
+**Discord:**
+https://discord.gg/H7rFCQpv58
+
+---
+
+## 🌍 Start Building
+
+Plan your routes, construct your stations, operate your trains, and transform your world into a complete transportation network.
+
+**Build the railway. Shape the city. Connect the world.**
+
+---
+
+## 🌐 Change Language
+
+Looking for a translated version of this page?
+
+Click **Change Language** below to open our GitHub translation page, where you can view available translations or help translate TransitScape into another language.
